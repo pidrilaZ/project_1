@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(189, 116, 22);
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.products{
+    padding: 30px;
+    display: grid;
+    gap:20px;
+}
